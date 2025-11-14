@@ -1,19 +1,19 @@
-# 1. Record architecture decisions
+# Ensemble Multiverse: Repository Overview
 
 Date: 2025-11-14
 
 ## Status
 
-Accepted
+Active
 
-## Context
+## Summary
 
-The issue motivating this decision, and any context that influences or constrains the decision.
+This repository provides documentation, architecture decisions, and implementation resources for the Ensemble Multiverse project. It serves as a central hub for tracking design choices, project context, and rationale behind key decisions.
 
-## Decision
+## Purpose
 
-The change that we're proposing or have agreed to implement.
+To facilitate collaboration, transparency, and maintainability by recording the motivations and consequences of architectural decisions throughout the project's lifecycle.
 
-## Consequences
+## Scope
 
-What becomes easier or more difficult to do and any risks introduced by the change that will need to be mitigated.
+Includes architecture decision records, project context, and guidance for contributors.

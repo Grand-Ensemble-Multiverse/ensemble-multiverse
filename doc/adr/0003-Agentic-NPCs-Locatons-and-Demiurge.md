@@ -1,4 +1,4 @@
-# ADR: Agent-Based Architecture for NPCs, Locations, and Demiurge
+# 3. Agent-Based Architecture for NPCs, Locations, and Demiurge
 
 ## Context
 We are designing a multiplayer RPG integrated with HumHub (Yii) and Evennia (Python). The game world requires dynamic, AI-driven interactions for:

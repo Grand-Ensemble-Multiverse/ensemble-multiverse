@@ -1,4 +1,4 @@
-# ADR: Integration of HumHub (Yii) with Evennia (Python) and AI Components
+# 2. Integration of HumHub (Yii) with Evennia (Python) and AI Components
 
 ## Context
 We are building a hybrid platform that combines:
